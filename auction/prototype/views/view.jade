@@ -1,0 +1,19 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+    body
+        h1
+            a(href='/goods') 경매시스템
+        h2 상품목록   
+        ul  
+            each info in goods
+                li
+                    a(href='/goods/'+info.Record.id)= info.Record.name
+        article
+            h2= title
+            = detail
+        div 
+         a(href="/form") 경매상품등록
+
+                

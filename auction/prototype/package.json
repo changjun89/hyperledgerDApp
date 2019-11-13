@@ -14,5 +14,9 @@
     "fabric-network": "^1.4.4",
     "jade": "^1.11.0",
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.1",
+    "constantinople": "^4.0.1"
   }
 }

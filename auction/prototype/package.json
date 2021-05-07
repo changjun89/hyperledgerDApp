@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "fabric-network": "^1.4.4",
     "jade": "^1.11.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "clean-css": "^4.2.1",
